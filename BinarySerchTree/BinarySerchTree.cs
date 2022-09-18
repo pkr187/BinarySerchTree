@@ -74,6 +74,29 @@ namespace BinarySerchTree
             return count;
         }
         ///<summary>
+        ///UC-3 - Search Element in Binary Search Tree.
+        ///</summary>
+        public bool SearchTree(int data, Node<T> node)
+        {
+            if (node == null)
+            {
+                return false;
+            }
+            else
+            {
+                if (this.Current.data.Equals(data))
+                {
+                    result = true;
+                }
+                else if (this.Current.data.CompareTo(data) > 0)
+                {
+                    this.Current = this.Current.leftNode;
+                    SearchTree(data, Current);
+                }
+                return result;
+            }
+        }
+        ///<summary>
         ///Display the Noed Elements from BST.
         ///</summary>
         public void Display(Node<T> node)
