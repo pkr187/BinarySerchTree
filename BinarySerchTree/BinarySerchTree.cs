@@ -67,6 +67,13 @@ namespace BinarySerchTree
             return this.Root;
         }
         ///<summary>
+        ///UC-2 - Gets the Size of Binary Search Tree.
+        ///</summary>
+        public int GetSize()
+        {
+            return count;
+        }
+        ///<summary>
         ///Display the Noed Elements from BST.
         ///</summary>
         public void Display(Node<T> node)
