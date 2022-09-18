@@ -1,0 +1,15 @@
+C:\BinarySerchTree\BinarySerchTree\bin\Debug\net6.0\BinarySerchTree.exe
+C:\BinarySerchTree\BinarySerchTree\bin\Debug\net6.0\BinarySerchTree.deps.json
+C:\BinarySerchTree\BinarySerchTree\bin\Debug\net6.0\BinarySerchTree.runtimeconfig.json
+C:\BinarySerchTree\BinarySerchTree\bin\Debug\net6.0\BinarySerchTree.dll
+C:\BinarySerchTree\BinarySerchTree\bin\Debug\net6.0\BinarySerchTree.pdb
+C:\BinarySerchTree\BinarySerchTree\obj\Debug\net6.0\BinarySerchTree.csproj.AssemblyReference.cache
+C:\BinarySerchTree\BinarySerchTree\obj\Debug\net6.0\BinarySerchTree.GeneratedMSBuildEditorConfig.editorconfig
+C:\BinarySerchTree\BinarySerchTree\obj\Debug\net6.0\BinarySerchTree.AssemblyInfoInputs.cache
+C:\BinarySerchTree\BinarySerchTree\obj\Debug\net6.0\BinarySerchTree.AssemblyInfo.cs
+C:\BinarySerchTree\BinarySerchTree\obj\Debug\net6.0\BinarySerchTree.csproj.CoreCompileInputs.cache
+C:\BinarySerchTree\BinarySerchTree\obj\Debug\net6.0\BinarySerchTree.dll
+C:\BinarySerchTree\BinarySerchTree\obj\Debug\net6.0\refint\BinarySerchTree.dll
+C:\BinarySerchTree\BinarySerchTree\obj\Debug\net6.0\BinarySerchTree.pdb
+C:\BinarySerchTree\BinarySerchTree\obj\Debug\net6.0\BinarySerchTree.genruntimeconfig.cache
+C:\BinarySerchTree\BinarySerchTree\obj\Debug\net6.0\ref\BinarySerchTree.dll
